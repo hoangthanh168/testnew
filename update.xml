@@ -2,6 +2,6 @@
 <item>
     <version>1.0.1</version>
     <url>https://yourwebsite.com/MyApplicationInstaller.msi</url>
-    <changelog>https://yourwebsite.com/changelog.html</changelog>
+    <changelog>https://raw.githubusercontent.com/hoangthanh168/testnew/main/update.xml</changelog>
     <mandatory>false</mandatory>
 </item>
